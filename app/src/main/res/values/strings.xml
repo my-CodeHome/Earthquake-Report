@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Earthquake Report</string>
+    <string name="near_the" />
+    <string name="No_Earthquake">NO earthquakes were found</string>
+</resources>
